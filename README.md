@@ -10,3 +10,5 @@ I love Jesus and he loves me too.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=vieira-klgwn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
