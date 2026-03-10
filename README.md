@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-"And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do." --Vint Cerf
+
+> "And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do." --Vint Cerf
+<br>
+
 Hi there! 👋<br>I tell my pc what to do. I tell it to make springboot backs, nextjs fronts, django backs, nodejs backs, ML models,NFTS, Dapps ,Flutter and ReactNative mobiles.<br> I also command it to hack vulnerabilities, solve ctf challenges or secure systems from attacks. <br>When I feel bored, I tell it to  make python games with pure python or pygame. When I am tooooooooooo bored I tell it to make 3D movies with Blender.<br>
 My hobby is playing with my friends.<br>
 I love Jesus and he loves me too.
